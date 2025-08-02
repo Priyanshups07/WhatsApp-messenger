@@ -31,8 +31,8 @@ A powerful Python application that enables you to schedule and send WhatsApp mes
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/whatsapp-messenger.git
-cd whatsapp-messenger
+git clone https://github.com/Priyanshups07/WhatsApp-messenger.git
+cd WhatsApp-messenger
 ```
 
 2. **Install dependencies:**
@@ -122,4 +122,4 @@ If you have any questions or need help, please open an issue on GitHub.
 
 ---
 
-⭐ **Star this repository if you find it helpful!** 
+⭐ **Star this repository if you find it helpful!**
